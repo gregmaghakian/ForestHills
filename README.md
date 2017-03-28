@@ -3,6 +3,7 @@
 
 
 [Link to my map](https://github.com/Greg51697/hello-world/blob/master/map%20(1).geojson)
+![This is the map](https://scontent.xx.fbcdn.net/v/t31.0-8/17436032_1215188235264876_4265819751010333837_o.jpg?oh=35632c5e76bea46cb11f463cdfc57492&oe=59560F28)
 
 **The basic Demographics are:**
 * 	Population: 86,364
