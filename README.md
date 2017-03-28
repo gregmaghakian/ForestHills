@@ -33,3 +33,15 @@
 9) ('Plate ID', '91291MD', 'has', 193, 'tickets.')
 
 10) ('Plate ID', '92708JU', 'has', 188, 'tickets.')
+
+**The Biggest 311 Complaints were:**
+1) Street"Condition"has"5215"complaints"
+2) Noise"-"Residential"has"4938"complaints"
+3) Blocked"Driveway"has"4650"complaints"
+4) Water"System"has"3924"complaints"
+5) Street"Light"Condition"has"3891"complaints"
+6) HEATING"has"3723"complaints"
+7) Damaged"Tree"has"3536"complaints"
+8) Broken"Muni"Meter"has"3269"complaints"
+9) HEAT/HOT"WATER"has"3179"complaints"
+10) Illegal"Parking"has"2691"complaints"
