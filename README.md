@@ -45,3 +45,6 @@
 8) Broken"Muni"Meter"has"3269"complaints"
 9) HEAT/HOT"WATER"has"3179"complaints"
 10) Illegal"Parking"has"2691"complaints"
+
+
+![This is a Map of the 311 Complaints](/gregmaghakian/Complaints.png)
