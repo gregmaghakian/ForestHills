@@ -47,4 +47,4 @@
 10) Illegal"Parking"has"2691"complaints"
 
 
-![This is a Map of the 311 Complaints](/gregmaghakian/Complaints.png)
+![This is a Map of the 311 Complaints](/images/Complaints.png)
